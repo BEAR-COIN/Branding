@@ -4,11 +4,13 @@
 Logo icons, logotypes, images and other related content associated with [BEAR Coin](https://bearcoin.net/).
 
 ## Logo, icons and logotypes
-Logo, icons and logotypes can be found in [logo](logo/)
+Logo, icons and logotypes can be found in [logo](logo/) folder.
+
+Please, use the BEAR Coin logo as shown in the following examples: 
 <p align="center"><img src="img/logo_usage.png" /></p>
 
 ## Favicon and App Icons
-Favicon and App Icons can be found in [ico](ico/)
+Favicon and App Icons can be found in [ico](ico/) folder.
 
 [Favicon](ico/favicon.ico) is small 16x16 icon file that are displayed next to the URL of site in a browser's address bar. Additionally often displayed next to the name of site in a user's list of open tabs and bookmark listings. App Icons are the images you press on your smartphone to launch an application.
 
