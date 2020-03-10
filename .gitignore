@@ -1,3 +1,4 @@
-# Photoshop source files
+# Photoshop and Illustrator source files
 .psd/
 *.psd
+*.ai
