@@ -4,9 +4,7 @@
 Logo icons, logotypes, images and other related content associated with [BEAR Coin](https://bearcoin.net/).
 
 ## Logo, icons and logotypes
-Logo, icons and logotypes can be found in [logo](logo/) folder.
-
-Please, use the BEAR Coin logo as shown in the following examples: 
+Logo, icons and logotypes can be found in [logo](logo/) folder. Please, use the BEAR Coin logo as shown in the following examples: 
 <p align="center"><img src="img/logo_usage.png" /></p>
 
 ## Favicon and App Icons
