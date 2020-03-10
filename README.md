@@ -1,21 +1,17 @@
-<p align="center">
-    <img src="banner/github_header.png" />
-</p>
+<p align="center"><img src="img/github_header.png" /></p>
 
 # BEAR Coin Brand Identity
-Logo icons, logotypes, images and other related content associated with [BEAR Coin](https://bearcoin.net/).
+<p>Logo icons, logotypes, images and other related content associated with [BEAR Coin](https://bearcoin.net/).</p>
 
 ## Logo, icons and logotypes
 Logo, icons and logotypes can be found in [logo](logo/)
-<p align="center">
-    <img src="logo/example.png" />
-</p>
+<p align="center"><img src="img/logo_usage.png" /></p>
 
 ## Favicon and App Icons
-Favicon and App Icons can be found in [ico](ico/)
-[Favicon](ico/favicon.ico) is small 16x16 icon file that are displayed next to the URL of site in a browser's address bar. Additionally often displayed next to the name of site in a user's list of open tabs and bookmark listings. App Icons are the images you press on your smartphone to launch an application.
+<p>Favicon and App Icons can be found in [ico](ico/)</p>
+<p>[Favicon](ico/favicon.ico) is small 16x16 icon file that are displayed next to the URL of site in a browser's address bar. Additionally often displayed next to the name of site in a user's list of open tabs and bookmark listings. App Icons are the images you press on your smartphone to launch an application.</p>
 
-In case web/app development usage, please include the following code in the head of your HTML document:
+<p>In case web/app development usage, please include the following code in the head of your HTML document:</p>
 ```
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
@@ -38,13 +34,10 @@ In case web/app development usage, please include the following code in the head
 ```
 
 ## Security
-
-If you discover a security vulnerability or any other issue within this package, please send an e-mail to contact@bearcoin.net
+<p>If you discover a security vulnerability or any other issue within this package, please send an e-mail to contact@bearcoin.net</p>
 
 ## Credits
-
-This project exists thanks to all the people who [contribute](../../contributors).
+<p>This project exists thanks to all the people who [contribute](../../contributors).</p>
 
 ## License
-
-[MIT](LICENSE) © [BEAR Coin](https://bearcoin.net/)
+<p>[MIT](LICENSE) © [BEAR Coin](https://bearcoin.net/)</p>
