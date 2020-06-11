@@ -1,4 +1,4 @@
-<p align="center"><img src="img/github_header.png" /></p>
+<p align="center"><img src="img/header.png" /></p>
 
 # BEAR Coin Brand Identity
 Logo icons, logotypes, images and other related content associated with [BEAR Coin](https://bearcoin.net/).
